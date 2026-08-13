@@ -1,0 +1,29 @@
+.skills-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.tech-stack{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    margin:18px 0;
+}
+
+.tech-stack span{
+    padding:8px 14px;
+    border-radius:50px;
+    background:rgba(255,255,255,.08);
+    border:1px solid rgba(255,255,255,.15);
+    font-size:.9rem;
+}
+
+.internship-list{
+    margin-top:15px;
+    padding-left:18px;
+}
+
+.internship-list li{
+    margin-bottom:10px;
+    color:#cfcfcf;
+}
