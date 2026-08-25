@@ -1,9 +1,5 @@
 # Personal Portfolio
 
-## live demo
-
-[view portfolio] : https://palrushideepthisree.github.io/myportfolio-website
-
 A modern and responsive portfolio website showcasing my projects, technical skills, internship experience, certifications, and achievements as a Full Stack Developer.
 
 ## Tech Stack
@@ -21,6 +17,10 @@ A modern and responsive portfolio website showcasing my projects, technical skil
 - Certifications
 - Contact Information
 
-## Author
+## 🌐 Live Demo
 
-**Deepthi Sree**
+[View Live Demo](https://palrushideepthisree.github.io/myportfolio-website/)
+
+## 👩‍💻 Author
+
+**Deepthi Sree Palrushi**
